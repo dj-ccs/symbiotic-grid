@@ -1,0 +1,31 @@
+Model Category,Item,Quantity,Unit,Price,Unit Price,Annual Revenue,Currency,Notes
+Revenue Streams,Biochar Carbon Credits,15000,tonnes,3.0 credits/tonne,150,6750000,USD,$/tCO2e
+Revenue Streams,Biochar Agricultural Sales,15000,tonnes,,800,12000000,USD,$/tonne
+Revenue Streams,Electricity Sales,40000,MWh,,300,12000000,USD,$/MWh (0.30/kWh)
+Revenue Streams,Data Center Services,5,MW capacity,,Variable,2000000-8000000,USD,Variable pricing
+Revenue Streams,Total Annual Revenue,,,,,32750000-38750000,USD,
+Capital Costs,Pyrolysis System,5,MW capacity,,1000000,5000000,USD,Range: $3-8M
+Capital Costs,CHP Equipment,,,,,3000000,USD,Range: $2-5M
+Capital Costs,Data Center,5,MW capacity,,2000000,10000000,USD,Range: $8-12M
+Capital Costs,Feedstock Handling,,,,,3000000,USD,Range: $2-4M
+Capital Costs,Site Development,,,,,2000000,USD,Range: $1-3M
+Capital Costs,Total CAPEX,,,,,23000000,USD,Range: $16-32M
+Operating Costs,Feedstock Delivered,50000,tonnes,30-60,45,2250000,USD,$/tonne delivered
+Operating Costs,Labor,3-5,FTE,80000,80000,320000,USD,Annual salary per FTE
+Operating Costs,Maintenance,3-5,% of CAPEX,,4.0%,920000,USD,% of total CAPEX
+Operating Costs,Utilities and Consumables,,,,,500000,USD,Estimated
+Operating Costs,Total Annual OPEX,,,,,3990000,USD,Approximate
+Financial Metrics,Payback Period Conservative,5-7,years,,,,,Carbon credits $100/tCO2e
+Financial Metrics,Payback Period Optimistic,3-4,years,,,,,Premium pricing scenarios
+Financial Metrics,IRR Target,10+,%,,,,,Industry standard
+Performance Metrics,Facility Capacity,50000-75000,tonnes/year,,,,,Agricultural residue processing
+Performance Metrics,Electrical Generation,5-10,MW capacity,,,,,Baseload power
+Performance Metrics,Data Center IT Load,170-850,kW continuous,,,,,Variable by facility size
+Performance Metrics,Power Usage Effectiveness,1.3-1.5,PUE ratio,,,,,Target efficiency
+Performance Metrics,System Availability,80+,%,,,,,Baseload generation
+Market Scenarios,Conservative Deployment,50,facilities over 10 years,,,,,2.5-3.75M tonnes/year
+Market Scenarios,Conservative Investment,750-1500,million USD,,,,,Total investment required
+Market Scenarios,Aggressive Deployment,500,facilities globally,,,,,25-37.5M tonnes/year
+Market Scenarios,Aggressive Investment,7500-15000,million USD,,,,,Global investment required
+Cost Learning,Technology Cost Reduction,15-25,%,over 10 years,,,,Through scaling effects
+Cost Learning,Performance Improvement,10-20,%,optimization,,,,Continuous improvement

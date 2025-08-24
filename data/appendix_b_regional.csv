@@ -1,0 +1,31 @@
+Assessment Category,Resource Type,Parameter,Value,Unit,Notes
+Riverina Agricultural Residues,Rice Paddy,Annual Production,450000,tonnes,
+Riverina Agricultural Residues,Rice Paddy,Residue Factor,1.4,ratio,straw+hulls
+Riverina Agricultural Residues,Rice Paddy,Available Biomass,630000,tonnes,
+Riverina Agricultural Residues,Wheat,Annual Production,800000,tonnes,
+Riverina Agricultural Residues,Wheat,Residue Factor,1.0,ratio,
+Riverina Agricultural Residues,Wheat,Available Biomass,800000,tonnes,
+Riverina Agricultural Residues,Barley,Annual Production,150000,tonnes,
+Riverina Agricultural Residues,Barley,Residue Factor,1.0,ratio,
+Riverina Agricultural Residues,Barley,Available Biomass,150000,tonnes,
+Riverina Agricultural Residues,Total,Available Biomass,1580000,tonnes,
+Riverina Agricultural Residues,Sustainable Harvest,50% Retention Available,790000,tonnes,50% retained for soil health
+Riverina Agricultural Residues,Economic Transport,Radius,50-80,km,Geographic coverage area
+Water Requirements Comparison,Hemp,Total Water,5-7,ML/hectare,
+Water Requirements Comparison,Hemp,Critical Period,First 6-8 weeks,,
+Water Requirements Comparison,Hemp,Drought Tolerance,High,,
+Water Requirements Comparison,Rice,Total Water,12-15,ML/hectare,
+Water Requirements Comparison,Rice,Critical Period,Full season,,
+Water Requirements Comparison,Rice,Drought Tolerance,Low,,
+Water Requirements Comparison,Cotton,Total Water,6-8,ML/hectare,
+Water Requirements Comparison,Cotton,Critical Period,Full season,,
+Water Requirements Comparison,Cotton,Drought Tolerance,Medium,,
+Water Requirements Comparison,Wheat,Total Water,2-4,ML/hectare,
+Water Requirements Comparison,Wheat,Critical Period,Grain fill,,
+Water Requirements Comparison,Wheat,Drought Tolerance,Medium,,
+Hemp Cultivation Potential,Water Efficiency vs Cotton,70% less water required,,70% reduction
+Hemp Cultivation Potential,Growing Season,70-90 days,autoflower varieties,
+Hemp Cultivation Potential,Growing Season,120-140 days,full-season varieties,
+Hemp Cultivation Potential,Grain Yield,1,tonne/hectare,good conditions
+Hemp Cultivation Potential,Stem Biomass Yield,5.5-8.5,tonnes dry matter/hectare,
+Hemp Cultivation Potential,Drought Yield Reduction,Approximately 1/3,normal yield,extreme drought conditions

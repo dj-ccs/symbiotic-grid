@@ -1,0 +1,31 @@
+Parameter Category,Parameter,Value/Range,Unit,Notes
+Feedstock Energy Yields,Corn Stover Net Electricity,0.8-1.2,MWh/tonne,
+Feedstock Energy Yields,Corn Stover Biochar Yield,23.8-47.9,%,
+Feedstock Energy Yields,Corn Stover Syngas LHV,15-20,MJ/Nm³,
+Feedstock Energy Yields,Rice Straw Net Electricity,1.0-1.4,MWh/tonne,
+Feedstock Energy Yields,Rice Straw Biochar Yield,25-35,%,
+Feedstock Energy Yields,Rice Straw Syngas LHV,10-18,MJ/Nm³,
+Feedstock Energy Yields,Cereal Straw Net Electricity,0.9-1.3,MWh/tonne,
+Feedstock Energy Yields,Cereal Straw Biochar Yield,28-40,%,
+Feedstock Energy Yields,Cereal Straw Syngas LHV,12-16,MJ/Nm³,
+Feedstock Energy Yields,Hemp Biomass Net Electricity,1.0-1.5,MWh/tonne,
+Feedstock Energy Yields,Hemp Biomass Biochar Yield,28-32,%,
+Feedstock Energy Yields,Hemp Biomass Syngas LHV,12-18,MJ/Nm³,
+Pyrolysis Operating Parameters,Temperature Range,450-600,°C,Higher temps favor gas
+Pyrolysis Operating Parameters,Temperature Optimal,550-600,°C,Higher temps favor gas
+Pyrolysis Operating Parameters,Residence Time Range,30 min-2 hours,,Depends on feedstock
+Pyrolysis Operating Parameters,Residence Time Optimal,1-2 hours,,Depends on feedstock
+Pyrolysis Operating Parameters,Heating Rate Range,10³-10⁴,°C/s,Fast pyrolysis
+Pyrolysis Operating Parameters,Heating Rate Optimal,10³,°C/s,Fast pyrolysis
+Pyrolysis Operating Parameters,Particle Size Maximum,<3,mm,Fluidized bed
+Pyrolysis Operating Parameters,Particle Size Optimal,2,mm,Fluidized bed
+Pyrolysis Operating Parameters,Moisture Content Maximum,<15,%,Energy balance critical
+Pyrolysis Operating Parameters,Moisture Content Optimal,<10,%,Energy balance critical
+Carbon Credit Markets,Puro.earth Price Range,115-590,$/tCO2e,Third-party LCA required
+Carbon Credit Markets,Puro.earth Permanence,200+,years,Enhanced verification
+Carbon Credit Markets,Verra VCS Price Range,100-200,$/tCO2e,VM0044 methodology
+Carbon Credit Markets,Verra VCS Permanence,100+,years,Standard verification
+Carbon Credit Markets,Australia ACCU Price,TBD,$/tCO2e,Methodology pending
+Carbon Credit Markets,Australia ACCU Permanence,100+,years,Methodology development
+Carbon Credit Markets,Premium Markets Price,200-525,$/tCO2e,Enhanced verification
+Carbon Credit Markets,Premium Markets Permanence,Variable,years,Case by case

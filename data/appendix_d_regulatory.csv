@@ -1,0 +1,32 @@
+Jurisdiction,Regulatory Category,Primary Agency,Key Requirements,Timeline,Approval Type,Notes
+NSW Australia,Environmental,NSW EPA,Precinct designation or exemption,6-18 months,Development Application,Protection of Environment Operations Act 1997
+NSW Australia,Planning,NSW Planning,Environmental Impact Assessment,6-12 months,Development Consent,Above specified thresholds
+NSW Australia,Energy,Essential Energy,Grid connection assessment,12-24 months,Connection Agreement,600+ project backlog
+Federal Australia,Carbon Credits,Clean Energy Regulator,ACCU methodology development,24+ months,Methodology Approval,No current biochar methodology
+Federal Australia,Renewable Energy,AEMO,Grid integration requirements,Variable,Registration,Market participation
+US Federal,Environmental,EPA,Clean Air Act compliance,12-24 months,Operating Permit,Advanced recycling regulations
+US Federal,Energy,FERC,Grid interconnection,18-36 months,Interconnection Agreement,Queue reform in progress
+US Federal,Tax,IRS,Investment Tax Credits,Annual,Tax Credit,10% for CHP <50MW through 2025
+Southeast Asia,Environmental,National Agencies,Environmental Impact Assessment,6-18 months,EIA Approval,Varies by country
+Southeast Asia,Waste Management,National Agencies,Waste treatment permits,6-12 months,Operating License,3R policy frameworks
+Southeast Asia,Energy,National Utilities,Power purchase agreements,12-24 months,PPA Contract,Rural electrification priority
+Europe,Environmental,National/EU,Industrial Emissions Directive,12-18 months,Environmental Permit,Best available techniques
+Europe,Energy,TSOs,Grid connection standards,12-36 months,Connection Agreement,Renewable Energy Directive
+Europe,Carbon,National Registries,EU ETS or voluntary markets,6-12 months,Registry Account,Article 6 mechanisms
+Key Compliance Areas,Air Quality,Various,Emissions monitoring,Ongoing,Operating Compliance,Stack testing requirements
+Key Compliance Areas,Water Usage,Various,Water extraction permits,3-6 months,Water License,Cooling system requirements
+Key Compliance Areas,Noise,Local Authorities,Noise impact assessment,3-6 months,Planning Condition,Rural area standards
+Key Compliance Areas,Traffic,Local Authorities,Transport impact assessment,3-6 months,Planning Condition,Feedstock delivery routes
+Key Compliance Areas,Waste Classification,Various,Feedstock vs waste determination,Variable,Classification Decision,Agricultural residue status
+Key Compliance Areas,Building Standards,Local Authorities,Data center construction,6-12 months,Building Permit,Rural zoning compliance
+Key Compliance Areas,Fire Safety,Fire Authorities,Fire safety systems,3-6 months,Fire Safety Certificate,Biomass handling requirements
+Key Compliance Areas,Electrical Safety,Electrical Authorities,Electrical installation,3-6 months,Electrical Compliance,High voltage systems
+Exemption Pathways,NSW Coal/Diesel Replacement,NSW EPA,90%+ on-site energy use,6-12 months,Exemption Application,Policy development
+Exemption Pathways,Small Scale Generator,Various,<5MW capacity,3-6 months,Embedded Generator,Simplified approval
+Exemption Pathways,Research/Demonstration,Various,Pilot project status,Variable,Research License,Temporary approvals
+Policy Support,Rural Development,Various,Regional job creation,Variable,Grant Funding,Economic development priority
+Policy Support,Renewable Energy,Various,Clean energy targets,Variable,Policy Incentive,State and federal programs
+Policy Support,Waste Management,Various,Circular economy,Variable,Policy Support,Waste-to-energy strategies
+International Frameworks,Paris Agreement,UNFCCC,Article 6 mechanisms,Variable,International Credits,Corresponding adjustments
+International Frameworks,CORSIA,ICAO,Aviation carbon offsetting,Variable,Offset Credits,International aviation
+International Frameworks,Voluntary Markets,VCS/Gold Standard,Carbon project registration,12-24 months,Project Registration,Third-party verification
