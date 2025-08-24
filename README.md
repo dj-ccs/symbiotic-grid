@@ -1,6 +1,8 @@
 # The Symbiotic Grid: An Open-Source Blueprint for the Agri-Compute Nexus
 
-![System Architecture Diagram](diagrams/system_architecture.png)
+<p align="center">
+   <img src="diagrams/system_architecture.png">
+</p>
 
 This repository contains the foundational research and technical specifications for the **Agri-Compute Nexus**, a decentralized model for building sustainable data centers powered by local agricultural waste via pyrolysis.
 
@@ -17,18 +19,21 @@ The model creates a symbiotic relationship between technology and agriculture:
 
 The complete technical and economic analysis is available in our foundational whitepaper.
 
-**[>> Download the Full Whitepaper PDF (Version 1.0)](whitepaper/Symbiotic-Grid_v09.pdf)**
+**[>> Download the Full Whitepaper PDF (Version 09)](whitepaper/Symbiotic-Grid_v09.pdf)**
 
 The paper includes:
 - Detailed technical parameters for pyrolysis and energy conversion.
 - A complete economic model based on a "symbiotic revenue stack" (carbon credits, biochar sales, energy/data services).
 - An in-depth case study for Australia's Riverina region.
 - A framework for deploying drought-tolerant feedstocks like industrial hemp.
-![Revenue Stack](diagrams/revenue_stack.png)
+
+<p align="center">
+   <img src="diagrams/revenue_stack.png" max-width: 300px>
+</p>
 
 ## Data & Resources
 
-The key data from the whitepaper's appendices is available in open CSV format in the `/data` directory. The diagrams are available in SVG and PNG format in the `/diagrams` directory. We encourage you to use and build upon this data.
+The key data from the whitepaper's appendices is available in open CSV format in the [`/data`](data/) directory. The diagrams are available in SVG and PNG format in the [`/diagrams`](diagrams/) directory. We encourage you to use and build upon this data.
 
 ## License
 
