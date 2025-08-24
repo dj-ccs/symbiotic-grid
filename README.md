@@ -28,7 +28,7 @@ The paper includes:
 - A framework for deploying drought-tolerant feedstocks like industrial hemp.
 
 <p align="center">
-   <img src="diagrams/revenue_stack.png" max-width: 300px>
+   <img src="diagrams/revenue_stack.png" width="300px">
 </p>
 
 ## Data & Resources
