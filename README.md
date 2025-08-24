@@ -17,13 +17,14 @@ The model creates a symbiotic relationship between technology and agriculture:
 
 The complete technical and economic analysis is available in our foundational whitepaper.
 
-**[>> Download the Full Whitepaper PDF (Version 1.0)](whitepaper/The_Symbiotic_Grid_Whitepaper_v1.0.pdf)**
+**[>> Download the Full Whitepaper PDF (Version 1.0)](whitepaper/Symbiotic-Grid_v09.pdf)**
 
 The paper includes:
 - Detailed technical parameters for pyrolysis and energy conversion.
 - A complete economic model based on a "symbiotic revenue stack" (carbon credits, biochar sales, energy/data services).
 - An in-depth case study for Australia's Riverina region.
 - A framework for deploying drought-tolerant feedstocks like industrial hemp.
+![Revenue Stack](diagrams/revenue_stack.png)
 
 ## Data & Resources
 
