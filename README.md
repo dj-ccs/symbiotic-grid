@@ -15,6 +15,14 @@ The model creates a symbiotic relationship between technology and agriculture:
 2.  **Process:** An on-site pyrolysis unit converts this biomass into syngas and biochar.
 3.  **Output:** Syngas provides reliable baseload power for a co-located modular data center, while the biochar is returned to farmers to sequester carbon and improve soil health.
 
+### An Official Blueprint Repository of the Unified Conscious Evolution Framework (UCF)
+
+This project serves as a **Blueprint Repository** within the [Unified Conscious Evolution Framework (UCF)](https://github.com/dj-ccs/Unified-Conscious-Evolution-Framework). Its purpose is to provide a complete, open-source, and implementation-ready plan for physical, regenerative infrastructure.
+
+Symbiotic Grid is the "hardware" that generates the real-world outcomes our software labs are designed to measure and value:
+*   The **verifiable ecosystem health data** (biochar carbon sequestration, improved soil health) produced by this system is designed to be valued by the **[EHDC (Pillar IV) Lab](https://github.com/dj-ccs/EHDC)**.
+*   The **research, data, and operational findings** from this model are designed to be published and peer-reviewed on the **[Open Science DLT (Pillar I) Lab](https://github.com/dj-ccs/open-science-dlt)**.
+
 ## The Whitepaper
 
 The complete technical and economic analysis is available in our foundational whitepaper.
