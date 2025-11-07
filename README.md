@@ -26,6 +26,17 @@ The model is a three-step, closed-loop symbiotic cycle:
 
 ![System Architecture Diagram](diagrams/system_architecture.png)
 
+### Key Metrics (Based on Riverina Case Study)
+
+| Metric                    | Value                               | Source Document                  |
+| :------------------------ | :---------------------------------- | :------------------------------- |
+| **Annual Revenue**        | **$32.75M - $38.75M**               | `appendix_c_economic.csv`        |
+| **Capital Investment**    | **~$23M**                           | `appendix_c_economic.csv`        |
+| **Payback Period**        | **3-7 Years**                       | `whitepaper/Symbiotic-Grid_v09.pdf` |
+| **Internal Rate of Return (IRR)** | **10%+ Target**             | `white-paper/Symbiotic-Grid_v09.pdf` |
+| **Annual Carbon Sequestration** | **~15,000 tonnes (Biochar)**  | `appendix_a_technical.csv`       |
+| **Energy Generation**     | **0.8 - 1.5 MWh per tonne biomass** | `appendix_a_technical.csv`       |
+
 ## Key Components
 
 This repository contains all the necessary components to understand, evaluate, and implement a Symbiotic Grid facility.
@@ -58,6 +69,35 @@ This blueprint is a cornerstone of the Unified Conscious Evolution Framework's v
 *   Use the **Open Science DLT** platform to publish their operational data and contribute to the global knowledge commons on pyrolysis and regenerative agriculture.
 
 This repository provides the physical plan; the other UCF labs provide the digital tools to measure, value, and share the impact.
+
+## Pathways for Engagement
+
+This repository is a tool. Here’s how different partners can use it to get started:
+
+*   **For Farmers & Agricultural Co-ops:**
+    Start with the **[Riverina Case Study](./whitepaper/Symbiotic-Grid_v09.pdf)** (Section 4) and the biochar data in **[`appendix_a_technical.csv`](./data/appendix_a_technical.csv)**. Understand the direct benefits to soil health and the potential new revenue stream from your agricultural residue.
+
+*   **For Energy Developers & Data Center Operators:**
+    Focus on the **pyrolysis technical specifications** (Section 3 of the whitepaper) and the energy yield data in **[`appendix_a_technical.csv`](./data/appendix_a_technical.csv)**. The economic model in **[`appendix_c_economic.csv`](./data/appendix_c_economic.csv)** details the business case for co-locating compute infrastructure with baseload renewable energy.
+
+*   **For Climate Tech Investors & Funds:**
+    The **[Symbiotic Revenue Stack](./diagrams/revenue_stack.png)** and the full financial model in **[`appendix_c_economic.csv`](./data/appendix_c_economic.csv)** are your starting points. The 3-7 year payback period and diversified revenue streams demonstrate a de-risked and scalable investment thesis.
+
+*   **For Policymakers & Regulators:**
+    Review the **[multi-jurisdictional compliance pathways](./data/appendix_d_regulatory.csv)** and the whitepaper's discussion on integrating with carbon credit markets (Section 5). This blueprint provides a shovel-ready model for rural economic development and climate mitigation.
+
+## Join the Development of This Blueprint
+
+This is a living document, not a static report. We invite collaborators to help adapt, refine, and implement this model globally. The "development" of this project happens through discussion and adaptation.
+
+**The best way to contribute is through [GitHub Issues](https://github.com/dj-ccs/symbiotic-grid/issues).**
+
+*   **Have a technical question?** Open an issue with the `[Technical Question]` tag.
+*   **Want to adapt this model for your region?** Open an issue with the `[New Case Study]` tag and let's discuss the data.
+*   **Have updated economic data?** Open an issue with the `[Economic Model]` tag.
+*   **Found a new regulatory pathway?** Open an issue with the `[Policy]` tag.
+
+By using Issues as our forum, we can build a transparent, open-source knowledge base of adaptations and improvements for the benefit of all.
 
 ## License
 
